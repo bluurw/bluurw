@@ -8,6 +8,8 @@
 
 ![](https://raw.githubusercontent.com/bluurw/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/bluurw/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/bluurw/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/bluurw/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=007396)
