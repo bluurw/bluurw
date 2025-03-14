@@ -6,10 +6,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bluurw&theme=dracula&show_icons=true" />
 </a>
 
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=007396)
 ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go&logoColor=007396)
 ![Py](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396)
+![Bash](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
