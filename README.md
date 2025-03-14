@@ -6,8 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bluurw&theme=dracula&show_icons=true" />
 </a>
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/bluurw/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/bluurw/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=007396)
