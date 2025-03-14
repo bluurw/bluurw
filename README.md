@@ -10,7 +10,7 @@
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=007396)
 ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go&logoColor=007396)
 ![Py](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%333333.svg?style=for-the-badge&logo=gnu-bash&logoColor=007396)
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
