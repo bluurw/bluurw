@@ -16,5 +16,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
+---
 [![Gmail Badge](https://img.shields.io/badge/-bluuryface@protonmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bluuryface@protonmail.com)](mailto:bluuryface@protonmail.com)
 [![GitHub](https://img.shields.io/github/followers/bluurw?label=follow&style=social)](https://github.com/bluurw)
