@@ -1,10 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=bluurw&color=006bed)
 
-<br/>
-
 <a href="https://github.com/bluurw" title="Bluurw">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bluurw&theme=dracula&show_icons=true" />
 </a>
+
+---
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=007396)
