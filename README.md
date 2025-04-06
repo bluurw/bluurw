@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/bluurw" title="Bluurw">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bluurw&theme=dracula&show_icons=true" />
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluurw)]
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluurw&theme=dracula&show_icons=true" />
   </a>
 </div>
 ---
